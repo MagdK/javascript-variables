@@ -1,14 +1,15 @@
 const myProfile = {
-    "username": "beka",
+    "username": "Dus",
+    "accountActive": true,
     "firstName": "Magda",
     "familyName": "Kovacs",
-    "mobile": 63112345689,
+    "mobile": "063123456789",
     "email": "magda@email.com",
     "gender": "female",
-    "dateOfBirth": new Date(1990, 12, 1),
+    "dateOfBirth": new Date(1940, 12, 1),
     "friends": [
-        {"name": "Black Larsen", "age": 130},
-        {"name": "Jane Doe", "age": 24},
+        {"name": "Black Larsen", "age": 80},
+        {"name": "Jane Doe", "age": 20},
         {"name": "Janet Doe", "age": 45}
     ],
     "likes": [
