@@ -12,19 +12,19 @@ const antagonist = {
     "actorName": "Tom Murray"
 }
 const awards = [
-    "Kinema Junpo Awards, 1927",
-    "National Film Registry, 1992",
-    "OFTA Film Hall of Fame, 2010"
+    ["Kinema Junpo Awards", 1927],
+    ["National Film Registry", 1992],
+    ["OFTA Film Hall of Fame", 2010]
 ]
    
 const favoriteMovie = { 
-    "title": title, 
-    "yearOfRelease": yearOfRelease,
-    "length": 95, 
-    "isKidFriendly": true, 
-    "protagonist": protagonist,
-    "antagonist": antagonist,
-    "awards": awards
+    "Movie title": title, 
+    "Year of release": yearOfRelease,
+    "Length of the movie": 95, 
+    "Is the movie kid friendly?": true, 
+    "The protagonist": protagonist,
+    "The antagonist": antagonist,
+    "Awards won": awards
 }
 
 console.log(favoriteMovie);
