@@ -11,13 +11,14 @@ const antagonist = {
     "characterName": "Black Larsen",
     "actorName": "Tom Murray"
 }
+
 const awards = [
     ["Kinema Junpo Awards", 1927],
     ["National Film Registry", 1992],
     ["OFTA Film Hall of Fame", 2010]
 ]
    
-const favoriteMovie = { 
+const myFavoriteMovie = { 
     "Movie title": title, 
     "Year of release": yearOfRelease,
     "Length of the movie": 95, 
